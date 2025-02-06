@@ -1,0 +1,832 @@
+[
+    {
+        "response_id": 1,
+        "response": "En tant qu'ing\u00e9nieure et membre du public, je vois le nucl\u00e9aire comme une avanc\u00e9e technologique n\u00e9cessaire. C'est une \u00e9nergie de base qui nous assure une stabilit\u00e9 essentielle tout en r\u00e9pondant \u00e0 l'urgence climatique. Cependant, la s\u00e9curit\u00e9 doit \u00eatre notre priorit\u00e9 absolue. Je m'inqui\u00e8te pour les g\u00e9n\u00e9rations futures et les effets de l'accumulation des d\u00e9chets nucl\u00e9aires. C'est pourquoi j'insiste sur la transparence totale des mesures de s\u00e9curit\u00e9 mises en place.",
+        "age_group": "36-50",
+        "city": "Paris",
+        "gender": "Female",
+        "position": "agreement",
+        "stances": "POSITIVE",
+        "themes": "Technological Advancement and Energy Stability: The role of nuclear power in providing energy stability and addressing climate change, including its potential to reduce the carbon footprint compared to coal power plants."
+    },
+    {
+        "response_id": 1,
+        "response": "En tant qu'ing\u00e9nieure et membre du public, je vois le nucl\u00e9aire comme une avanc\u00e9e technologique n\u00e9cessaire. C'est une \u00e9nergie de base qui nous assure une stabilit\u00e9 essentielle tout en r\u00e9pondant \u00e0 l'urgence climatique. Cependant, la s\u00e9curit\u00e9 doit \u00eatre notre priorit\u00e9 absolue. Je m'inqui\u00e8te pour les g\u00e9n\u00e9rations futures et les effets de l'accumulation des d\u00e9chets nucl\u00e9aires. C'est pourquoi j'insiste sur la transparence totale des mesures de s\u00e9curit\u00e9 mises en place.",
+        "age_group": "36-50",
+        "city": "Paris",
+        "gender": "Female",
+        "position": "agreement",
+        "stances": "POSITIVE",
+        "themes": "Safety and Transparency: The importance of robust safety measures, risk management, and transparent decision-making processes in the implementation of nuclear power plants to ensure public trust and safety."
+    },
+    {
+        "response_id": 1,
+        "response": "En tant qu'ing\u00e9nieure et membre du public, je vois le nucl\u00e9aire comme une avanc\u00e9e technologique n\u00e9cessaire. C'est une \u00e9nergie de base qui nous assure une stabilit\u00e9 essentielle tout en r\u00e9pondant \u00e0 l'urgence climatique. Cependant, la s\u00e9curit\u00e9 doit \u00eatre notre priorit\u00e9 absolue. Je m'inqui\u00e8te pour les g\u00e9n\u00e9rations futures et les effets de l'accumulation des d\u00e9chets nucl\u00e9aires. C'est pourquoi j'insiste sur la transparence totale des mesures de s\u00e9curit\u00e9 mises en place.",
+        "age_group": "36-50",
+        "city": "Paris",
+        "gender": "Female",
+        "position": "agreement",
+        "stances": "NEGATIVE",
+        "themes": "Nuclear Safety Concerns: The safety risks associated with nuclear power, including past disasters like Fukushima and Chernobyl, and concerns about potential accidents and long-term management of nuclear waste."
+    },
+    {
+        "response_id": 2,
+        "response": "Nos anc\u00eatres ont construit notre patrimoine \u00e9nerg\u00e9tique qui a toujours \u00e9t\u00e9 bas\u00e9 sur l'innovation. Mais le nucl\u00e9aire, c'est dangereux, et des catastrophes comme Fukushima ne doivent pas \u00eatre ignor\u00e9es. Nous devrions explorer le solaire, c'est plus s\u00fbr. \u00c0 Lyon, nous avons toujours eu un esprit pionnier, et investir dans des technologies plus vertes refl\u00e9terait mieux nos valeurs. Un d\u00e9veloppement durable ne devrait pas compromettre la s\u00e9curit\u00e9 de nos enfants.",
+        "age_group": "51-65",
+        "city": "Lyon",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "NEGATIVE",
+        "themes": "Nuclear Safety Concerns: The safety risks associated with nuclear power, including past disasters like Fukushima and Chernobyl, and concerns about potential accidents and long-term management of nuclear waste."
+    },
+    {
+        "response_id": 2,
+        "response": "Nos anc\u00eatres ont construit notre patrimoine \u00e9nerg\u00e9tique qui a toujours \u00e9t\u00e9 bas\u00e9 sur l'innovation. Mais le nucl\u00e9aire, c'est dangereux, et des catastrophes comme Fukushima ne doivent pas \u00eatre ignor\u00e9es. Nous devrions explorer le solaire, c'est plus s\u00fbr. \u00c0 Lyon, nous avons toujours eu un esprit pionnier, et investir dans des technologies plus vertes refl\u00e9terait mieux nos valeurs. Un d\u00e9veloppement durable ne devrait pas compromettre la s\u00e9curit\u00e9 de nos enfants.",
+        "age_group": "51-65",
+        "city": "Lyon",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Preference for Renewable Energy: The advocacy for investment in renewable energy sources such as solar, wind, and hydroelectric power as safer and more sustainable options compared to nuclear energy."
+    },
+    {
+        "response_id": 2,
+        "response": "Nos anc\u00eatres ont construit notre patrimoine \u00e9nerg\u00e9tique qui a toujours \u00e9t\u00e9 bas\u00e9 sur l'innovation. Mais le nucl\u00e9aire, c'est dangereux, et des catastrophes comme Fukushima ne doivent pas \u00eatre ignor\u00e9es. Nous devrions explorer le solaire, c'est plus s\u00fbr. \u00c0 Lyon, nous avons toujours eu un esprit pionnier, et investir dans des technologies plus vertes refl\u00e9terait mieux nos valeurs. Un d\u00e9veloppement durable ne devrait pas compromettre la s\u00e9curit\u00e9 de nos enfants.",
+        "age_group": "51-65",
+        "city": "Lyon",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Local Values and Heritage: The alignment of energy solutions with local values and heritage, prioritizing ecological sustainability and the use of natural resources, and concerns about the impact of nuclear power on local culture and environment."
+    },
+    {
+        "response_id": 3,
+        "response": "Ici \u00e0 Marseille, on passe plus de temps \u00e0 profiter de la mer qu'\u00e0 penser au nucl\u00e9aire. Pourtant, sans cette \u00e9nergie, comment allons-nous \u00e9clairer la ville ? Cela dit, il nous faut un plan solide pour g\u00e9rer les risques. La proximit\u00e9 de la mer nous fait \u00e9galement penser \u00e0 l'impact potentiel d'un incident nucl\u00e9aire sur l'\u00e9cosyst\u00e8me marin, ce qui pourrait avoir des cons\u00e9quences drastiques sur notre mode de vie et notre \u00e9conomie locale.",
+        "age_group": "21-35",
+        "city": "Marseille",
+        "gender": "Female",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Technological Advancement and Energy Stability: The role of nuclear power in providing energy stability and addressing climate change, including its potential to reduce the carbon footprint compared to coal power plants."
+    },
+    {
+        "response_id": 3,
+        "response": "Ici \u00e0 Marseille, on passe plus de temps \u00e0 profiter de la mer qu'\u00e0 penser au nucl\u00e9aire. Pourtant, sans cette \u00e9nergie, comment allons-nous \u00e9clairer la ville ? Cela dit, il nous faut un plan solide pour g\u00e9rer les risques. La proximit\u00e9 de la mer nous fait \u00e9galement penser \u00e0 l'impact potentiel d'un incident nucl\u00e9aire sur l'\u00e9cosyst\u00e8me marin, ce qui pourrait avoir des cons\u00e9quences drastiques sur notre mode de vie et notre \u00e9conomie locale.",
+        "age_group": "21-35",
+        "city": "Marseille",
+        "gender": "Female",
+        "position": "unclear",
+        "stances": "NEGATIVE",
+        "themes": "Environmental Impact and Sustainability: The long-term environmental impact of nuclear power plants, including the management of radioactive waste and potential harm to local ecosystems, and the need for sustainable energy solutions."
+    },
+    {
+        "response_id": 4,
+        "response": "Je suis pour le d\u00e9veloppement du nucl\u00e9aire en tant que Toulousain, car chaque r\u00e9acteur arr\u00eat\u00e9 est souvent remplac\u00e9 par une centrale \u00e0 charbon, ce qui augmente notre empreinte carbone; voil\u00e0 la r\u00e9alit\u00e9 \u00e9nerg\u00e9tique. S\u00e9curit\u00e9 et transparence doivent marcher de pair, bien entendu. Je crois qu'investir dans des technologies nucl\u00e9aires de nouvelles g\u00e9n\u00e9rations plus s\u00fbres est l'une des solutions cl\u00e9s pour atteindre un \u00e9quilibre \u00e9nerg\u00e9tique viable.",
+        "age_group": "36-50",
+        "city": "Toulouse",
+        "gender": "Male",
+        "position": "agreement",
+        "stances": "POSITIVE",
+        "themes": "Technological Advancement and Energy Stability: The role of nuclear power in providing energy stability and addressing climate change, including its potential to reduce the carbon footprint compared to coal power plants."
+    },
+    {
+        "response_id": 4,
+        "response": "Je suis pour le d\u00e9veloppement du nucl\u00e9aire en tant que Toulousain, car chaque r\u00e9acteur arr\u00eat\u00e9 est souvent remplac\u00e9 par une centrale \u00e0 charbon, ce qui augmente notre empreinte carbone; voil\u00e0 la r\u00e9alit\u00e9 \u00e9nerg\u00e9tique. S\u00e9curit\u00e9 et transparence doivent marcher de pair, bien entendu. Je crois qu'investir dans des technologies nucl\u00e9aires de nouvelles g\u00e9n\u00e9rations plus s\u00fbres est l'une des solutions cl\u00e9s pour atteindre un \u00e9quilibre \u00e9nerg\u00e9tique viable.",
+        "age_group": "36-50",
+        "city": "Toulouse",
+        "gender": "Male",
+        "position": "agreement",
+        "stances": "POSITIVE",
+        "themes": "Safety and Transparency: The importance of robust safety measures, risk management, and transparent decision-making processes in the implementation of nuclear power plants to ensure public trust and safety."
+    },
+    {
+        "response_id": 4,
+        "response": "Je suis pour le d\u00e9veloppement du nucl\u00e9aire en tant que Toulousain, car chaque r\u00e9acteur arr\u00eat\u00e9 est souvent remplac\u00e9 par une centrale \u00e0 charbon, ce qui augmente notre empreinte carbone; voil\u00e0 la r\u00e9alit\u00e9 \u00e9nerg\u00e9tique. S\u00e9curit\u00e9 et transparence doivent marcher de pair, bien entendu. Je crois qu'investir dans des technologies nucl\u00e9aires de nouvelles g\u00e9n\u00e9rations plus s\u00fbres est l'une des solutions cl\u00e9s pour atteindre un \u00e9quilibre \u00e9nerg\u00e9tique viable.",
+        "age_group": "36-50",
+        "city": "Toulouse",
+        "gender": "Male",
+        "position": "agreement",
+        "stances": "POSITIVE",
+        "themes": "Scientific and Technical Evaluation: The need for thorough scientific and technical evaluations to assess the long-term health and environmental impacts of nuclear power plants, ensuring the safety and sustainability of nuclear energy."
+    },
+    {
+        "response_id": 5,
+        "response": "Je suis profond\u00e9ment contre. Il faut cesser de penser que l'\u00e9nergie nucl\u00e9aire est la solution \u00e0 tout. L'Europe du Nord mise sur l'\u00e9olien et \u00e7a fonctionne. La France devrait se r\u00e9veiller et suivre cette voie, en particulier ici \u00e0 Lille, o\u00f9 les communaut\u00e9s locales sont d\u00e9j\u00e0 passionn\u00e9es par les initiatives vertes. Je crains \u00e9galement pour notre s\u00e9curit\u00e9 \u00e0 long terme et la gestion des d\u00e9chets nucl\u00e9aires hautement radioactifs.",
+        "age_group": "21-35",
+        "city": "Lille",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Preference for Renewable Energy: The advocacy for investment in renewable energy sources such as solar, wind, and hydroelectric power as safer and more sustainable options compared to nuclear energy."
+    },
+    {
+        "response_id": 5,
+        "response": "Je suis profond\u00e9ment contre. Il faut cesser de penser que l'\u00e9nergie nucl\u00e9aire est la solution \u00e0 tout. L'Europe du Nord mise sur l'\u00e9olien et \u00e7a fonctionne. La France devrait se r\u00e9veiller et suivre cette voie, en particulier ici \u00e0 Lille, o\u00f9 les communaut\u00e9s locales sont d\u00e9j\u00e0 passionn\u00e9es par les initiatives vertes. Je crains \u00e9galement pour notre s\u00e9curit\u00e9 \u00e0 long terme et la gestion des d\u00e9chets nucl\u00e9aires hautement radioactifs.",
+        "age_group": "21-35",
+        "city": "Lille",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "NEGATIVE",
+        "themes": "Nuclear Safety Concerns: The safety risks associated with nuclear power, including past disasters like Fukushima and Chernobyl, and concerns about potential accidents and long-term management of nuclear waste."
+    },
+    {
+        "response_id": 6,
+        "response": "Vue d'ici, \u00e0 Strasbourg et proche de l'Allemagne, l'int\u00e9gration de nouvelles technologies plus propres semble plus viable. Pourtant, un projet nucl\u00e9aire bien men\u00e9 pourrait fournir des emplois n\u00e9cessaires pour notre r\u00e9gion. Une telle initiative pourrait raviver notre \u00e9conomie locale, mais il ne faut pas sous-estimer l'importance des mesures de s\u00e9curit\u00e9 robustes du fait de notre position frontali\u00e8re d\u00e9licate avec des voisins ayant une approche anti-nucl\u00e9aire.",
+        "age_group": "36-50",
+        "city": "Strasbourg",
+        "gender": "Male",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Economic Sustainability and Benefits: The balance between renewable energy and nuclear power for economic sustainability, including potential benefits such as job creation and local economic revitalization from building a nuclear power plant."
+    },
+    {
+        "response_id": 6,
+        "response": "Vue d'ici, \u00e0 Strasbourg et proche de l'Allemagne, l'int\u00e9gration de nouvelles technologies plus propres semble plus viable. Pourtant, un projet nucl\u00e9aire bien men\u00e9 pourrait fournir des emplois n\u00e9cessaires pour notre r\u00e9gion. Une telle initiative pourrait raviver notre \u00e9conomie locale, mais il ne faut pas sous-estimer l'importance des mesures de s\u00e9curit\u00e9 robustes du fait de notre position frontali\u00e8re d\u00e9licate avec des voisins ayant une approche anti-nucl\u00e9aire.",
+        "age_group": "36-50",
+        "city": "Strasbourg",
+        "gender": "Male",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Safety and Transparency: The importance of robust safety measures, risk management, and transparent decision-making processes in the implementation of nuclear power plants to ensure public trust and safety."
+    },
+    {
+        "response_id": 7,
+        "response": "\u00c9coutez, \u00e0 Bordeaux, on aime nos paysages viticoles. Le nucl\u00e9aire doit se renouveler et s'int\u00e9grer intelligemment dans le paysage, tout en respectant les mesures strictes de s\u00fbret\u00e9. Le d\u00e9veloppement de cette \u00e9nergie ne doit pas \u00eatre au d\u00e9triment de notre terroir ni de la qualit\u00e9 de vie des habitants. Les retomb\u00e9es potentielles sur notre industrie viticole locale en cas de crise nucl\u00e9aire ne doivent pas \u00eatre ignor\u00e9es.",
+        "age_group": "21-35",
+        "city": "Bordeaux",
+        "gender": "Female",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Safety and Transparency: The importance of robust safety measures, risk management, and transparent decision-making processes in the implementation of nuclear power plants to ensure public trust and safety."
+    },
+    {
+        "response_id": 7,
+        "response": "\u00c9coutez, \u00e0 Bordeaux, on aime nos paysages viticoles. Le nucl\u00e9aire doit se renouveler et s'int\u00e9grer intelligemment dans le paysage, tout en respectant les mesures strictes de s\u00fbret\u00e9. Le d\u00e9veloppement de cette \u00e9nergie ne doit pas \u00eatre au d\u00e9triment de notre terroir ni de la qualit\u00e9 de vie des habitants. Les retomb\u00e9es potentielles sur notre industrie viticole locale en cas de crise nucl\u00e9aire ne doivent pas \u00eatre ignor\u00e9es.",
+        "age_group": "21-35",
+        "city": "Bordeaux",
+        "gender": "Female",
+        "position": "unclear",
+        "stances": "NEGATIVE",
+        "themes": "Economic and Social Considerations: The economic implications and social impact of building a nuclear power plant, including potential diversion from more effective ecological solutions and harm to local economies dependent on agriculture and tourism."
+    },
+    {
+        "response_id": 8,
+        "response": "Le nucl\u00e9aire ? Oui, mais avec pr\u00e9caution. Ici, sur la C\u00f4te d'Azur, l'accent est mis sur l'impact environnemental. Et je veux savoir exactement comment cette centrale affectera notre belle r\u00e9gion. En tant que r\u00e9sident, je crains que le tourisme, qui est notre moteur \u00e9conomique principal, souffre d'une perception n\u00e9gative li\u00e9e \u00e0 la proximit\u00e9 d'une centrale nucl\u00e9aire. Cela pourrait aussi affecter la biodiversit\u00e9 marine, vitale pour les locaux.",
+        "age_group": "51-65",
+        "city": "Nice",
+        "gender": "Male",
+        "position": "unclear",
+        "stances": "NEGATIVE",
+        "themes": "Environmental Impact and Sustainability: The long-term environmental impact of nuclear power plants, including the management of radioactive waste and potential harm to local ecosystems, and the need for sustainable energy solutions."
+    },
+    {
+        "response_id": 8,
+        "response": "Le nucl\u00e9aire ? Oui, mais avec pr\u00e9caution. Ici, sur la C\u00f4te d'Azur, l'accent est mis sur l'impact environnemental. Et je veux savoir exactement comment cette centrale affectera notre belle r\u00e9gion. En tant que r\u00e9sident, je crains que le tourisme, qui est notre moteur \u00e9conomique principal, souffre d'une perception n\u00e9gative li\u00e9e \u00e0 la proximit\u00e9 d'une centrale nucl\u00e9aire. Cela pourrait aussi affecter la biodiversit\u00e9 marine, vitale pour les locaux.",
+        "age_group": "51-65",
+        "city": "Nice",
+        "gender": "Male",
+        "position": "unclear",
+        "stances": "NEGATIVE",
+        "themes": "Economic and Social Considerations: The economic implications and social impact of building a nuclear power plant, including potential diversion from more effective ecological solutions and harm to local economies dependent on agriculture and tourism."
+    },
+    {
+        "response_id": 9,
+        "response": "Cette r\u00e9gion est d\u00e9j\u00e0 progressiste sur le plan des \u00e9nergies renouvelables. Je soutiens le nucl\u00e9aire si \u2013 et seulement si \u2013 il vient compl\u00e9ter nos efforts dans le d\u00e9veloppement d'une \u00e9nergie propre. \u00c0 Nantes, nous avons une longue tradition d'initiatives \u00e9cologiques qui ne doivent pas \u00eatre compromises par des infrastructures \u00e9nerg\u00e9tiques aux potentiels risques \u00e9lev\u00e9s.",
+        "age_group": "21-35",
+        "city": "Nantes",
+        "gender": "Female",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Energy Autonomy and Compatibility with Renewables: The potential of nuclear power to ensure energy independence and stability, and its compatibility with existing renewable energy efforts without compromising ecological initiatives."
+    },
+    {
+        "response_id": 9,
+        "response": "Cette r\u00e9gion est d\u00e9j\u00e0 progressiste sur le plan des \u00e9nergies renouvelables. Je soutiens le nucl\u00e9aire si \u2013 et seulement si \u2013 il vient compl\u00e9ter nos efforts dans le d\u00e9veloppement d'une \u00e9nergie propre. \u00c0 Nantes, nous avons une longue tradition d'initiatives \u00e9cologiques qui ne doivent pas \u00eatre compromises par des infrastructures \u00e9nerg\u00e9tiques aux potentiels risques \u00e9lev\u00e9s.",
+        "age_group": "21-35",
+        "city": "Nantes",
+        "gender": "Female",
+        "position": "unclear",
+        "stances": "NEGATIVE",
+        "themes": "Local Values and Heritage: The alignment of energy solutions with local values and heritage, prioritizing ecological sustainability and the use of natural resources, and concerns about the impact of nuclear power on local culture and environment."
+    },
+    {
+        "response_id": 10,
+        "response": "En tant qu'\u00e9tudiant passionn\u00e9 par l'\u00e9cologie ici \u00e0 Montpellier, je crois qu'il faut miser sur l'hydro\u00e9lectrique. Le nucl\u00e9aire reste dangereux et co\u00fbteux, et je crains pour la durabilit\u00e9 de notre avenir. La vision d'une plan\u00e8te durable n\u00e9cessite que nous ne laissions pas un h\u00e9ritage de risques et de d\u00e9chets \u00e0 ceux qui viendront apr\u00e8s nous.",
+        "age_group": "36-50",
+        "city": "Montpellier",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Preference for Renewable Energy: The advocacy for investment in renewable energy sources such as solar, wind, and hydroelectric power as safer and more sustainable options compared to nuclear energy."
+    },
+    {
+        "response_id": 10,
+        "response": "En tant qu'\u00e9tudiant passionn\u00e9 par l'\u00e9cologie ici \u00e0 Montpellier, je crois qu'il faut miser sur l'hydro\u00e9lectrique. Le nucl\u00e9aire reste dangereux et co\u00fbteux, et je crains pour la durabilit\u00e9 de notre avenir. La vision d'une plan\u00e8te durable n\u00e9cessite que nous ne laissions pas un h\u00e9ritage de risques et de d\u00e9chets \u00e0 ceux qui viendront apr\u00e8s nous.",
+        "age_group": "36-50",
+        "city": "Montpellier",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "NEGATIVE",
+        "themes": "Nuclear Safety Concerns: The safety risks associated with nuclear power, including past disasters like Fukushima and Chernobyl, and concerns about potential accidents and long-term management of nuclear waste."
+    },
+    {
+        "response_id": 11,
+        "response": "Le nucl\u00e9aire, si ma\u00eetris\u00e9, peut garantir une autonomie \u00e9nerg\u00e9tique. Mais \u00e0 quelles conditions ? La transparence doit \u00eatre totale, notamment sur la gestion des risques naturels. \u00c0 Rennes, citoyens et ing\u00e9nieurs doivent coop\u00e9rer pour \u00e9valuer les progr\u00e8s techniques qui garantiront une s\u00fbret\u00e9 renforc\u00e9e. Mais la question de l'acceptabilit\u00e9 sociale doit toujours passer par un dialogue honn\u00eate avec la population.",
+        "age_group": "36-50",
+        "city": "Rennes",
+        "gender": "Male",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Energy Autonomy and Compatibility with Renewables: The potential of nuclear power to ensure energy independence and stability, and its compatibility with existing renewable energy efforts without compromising ecological initiatives."
+    },
+    {
+        "response_id": 11,
+        "response": "Le nucl\u00e9aire, si ma\u00eetris\u00e9, peut garantir une autonomie \u00e9nerg\u00e9tique. Mais \u00e0 quelles conditions ? La transparence doit \u00eatre totale, notamment sur la gestion des risques naturels. \u00c0 Rennes, citoyens et ing\u00e9nieurs doivent coop\u00e9rer pour \u00e9valuer les progr\u00e8s techniques qui garantiront une s\u00fbret\u00e9 renforc\u00e9e. Mais la question de l'acceptabilit\u00e9 sociale doit toujours passer par un dialogue honn\u00eate avec la population.",
+        "age_group": "36-50",
+        "city": "Rennes",
+        "gender": "Male",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Need for Public Consultation and Involvement: The importance of involving the public and conducting thorough impact studies before making decisions about nuclear power projects, emphasizing transparency and community involvement in the decision-making process."
+    },
+    {
+        "response_id": 12,
+        "response": "L'autonomie \u00e9nerg\u00e9tique est cruciale, certes. Toutefois, le public doit \u00eatre mieux inform\u00e9 sur les protocoles de s\u00e9curit\u00e9 nucl\u00e9aire. La confiance se b\u00e2tit sur la transparence. \u00c0 Rouen, o\u00f9 l'h\u00e9ritage industriel marque l'identit\u00e9 de notre ville, nous devons \u00e9viter les erreurs du pass\u00e9 en clarifiant les proc\u00e9dures de s\u00e9curit\u00e9 et en impliquant les communaut\u00e9s locales dans les discussions strat\u00e9giques.",
+        "age_group": "36-50",
+        "city": "Rouen",
+        "gender": "Female",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Need for Public Consultation and Involvement: The importance of involving the public and conducting thorough impact studies before making decisions about nuclear power projects, emphasizing transparency and community involvement in the decision-making process."
+    },
+    {
+        "response_id": 12,
+        "response": "L'autonomie \u00e9nerg\u00e9tique est cruciale, certes. Toutefois, le public doit \u00eatre mieux inform\u00e9 sur les protocoles de s\u00e9curit\u00e9 nucl\u00e9aire. La confiance se b\u00e2tit sur la transparence. \u00c0 Rouen, o\u00f9 l'h\u00e9ritage industriel marque l'identit\u00e9 de notre ville, nous devons \u00e9viter les erreurs du pass\u00e9 en clarifiant les proc\u00e9dures de s\u00e9curit\u00e9 et en impliquant les communaut\u00e9s locales dans les discussions strat\u00e9giques.",
+        "age_group": "36-50",
+        "city": "Rouen",
+        "gender": "Female",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Safety and Transparency: The importance of robust safety measures, risk management, and transparent decision-making processes in the implementation of nuclear power plants to ensure public trust and safety."
+    },
+    {
+        "response_id": 13,
+        "response": "Le progr\u00e8s \u00e9nerg\u00e9tique est in\u00e9vitable, mais que dire de l'impact environnemental imm\u00e9diat et permanent d'un tel projet? Les cons\u00e9quences \u00e0 long terme doivent \u00eatre examin\u00e9es minutieusement. \u00c0 Grenoble, au c\u0153ur des Alpes, nous avons une obligation de prot\u00e9ger notre environnement fragile et de valoriser nos ressources hydrauliques d\u00e9j\u00e0 \u00e9prouv\u00e9es et durables.",
+        "age_group": "51-65",
+        "city": "Grenoble",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "NEGATIVE",
+        "themes": "Environmental Impact and Sustainability: The long-term environmental impact of nuclear power plants, including the management of radioactive waste and potential harm to local ecosystems, and the need for sustainable energy solutions."
+    },
+    {
+        "response_id": 13,
+        "response": "Le progr\u00e8s \u00e9nerg\u00e9tique est in\u00e9vitable, mais que dire de l'impact environnemental imm\u00e9diat et permanent d'un tel projet? Les cons\u00e9quences \u00e0 long terme doivent \u00eatre examin\u00e9es minutieusement. \u00c0 Grenoble, au c\u0153ur des Alpes, nous avons une obligation de prot\u00e9ger notre environnement fragile et de valoriser nos ressources hydrauliques d\u00e9j\u00e0 \u00e9prouv\u00e9es et durables.",
+        "age_group": "51-65",
+        "city": "Grenoble",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Local Values and Heritage: The alignment of energy solutions with local values and heritage, prioritizing ecological sustainability and the use of natural resources, and concerns about the impact of nuclear power on local culture and environment."
+    },
+    {
+        "response_id": 14,
+        "response": "Dans notre belle Bretagne, nous privil\u00e9gions la durabilit\u00e9. Le nucl\u00e9aire n'est pas align\u00e9 sur nos valeurs \u00e9cologiques. Pourquoi ne pas investir dans plus d'\u00e9oliennes, qui respectent notre nature ? \u00c0 Brest, nous avons toujours su tirer parti de nos ressources naturelles, et cela inclut des solutions \u00e9nerg\u00e9tiques mari\u00e9es \u00e0 notre environnement c\u00f4tier unique.",
+        "age_group": "21-35",
+        "city": "Brest",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "NEGATIVE",
+        "themes": "Local Values and Heritage: The alignment of energy solutions with local values and heritage, prioritizing ecological sustainability and the use of natural resources, and concerns about the impact of nuclear power on local culture and environment."
+    },
+    {
+        "response_id": 14,
+        "response": "Dans notre belle Bretagne, nous privil\u00e9gions la durabilit\u00e9. Le nucl\u00e9aire n'est pas align\u00e9 sur nos valeurs \u00e9cologiques. Pourquoi ne pas investir dans plus d'\u00e9oliennes, qui respectent notre nature ? \u00c0 Brest, nous avons toujours su tirer parti de nos ressources naturelles, et cela inclut des solutions \u00e9nerg\u00e9tiques mari\u00e9es \u00e0 notre environnement c\u00f4tier unique.",
+        "age_group": "21-35",
+        "city": "Brest",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Preference for Renewable Energy: The advocacy for investment in renewable energy sources such as solar, wind, and hydroelectric power as safer and more sustainable options compared to nuclear energy."
+    },
+    {
+        "response_id": 15,
+        "response": "Nous devons envisager s\u00e9rieusement nos options \u00e9nerg\u00e9tiques pour le futur. Cependant, cette d\u00e9cision doit \u00eatre prise en pleine conscience des implications sociales et environnementales. \u00c0 Dijon, o\u00f9 l'innovation et le respect de l'environnement se rencontrent, il est primordial de faire valoir toute technologie \u00e9nerg\u00e9tique sur des bases d'acceptabilit\u00e9 locale et scientifique convaincante.",
+        "age_group": "36-50",
+        "city": "Dijon",
+        "gender": "Male",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Economic and Social Considerations: The economic implications and social impact of building a nuclear power plant, including potential diversion from more effective ecological solutions and harm to local economies dependent on agriculture and tourism."
+    },
+    {
+        "response_id": 15,
+        "response": "Nous devons envisager s\u00e9rieusement nos options \u00e9nerg\u00e9tiques pour le futur. Cependant, cette d\u00e9cision doit \u00eatre prise en pleine conscience des implications sociales et environnementales. \u00c0 Dijon, o\u00f9 l'innovation et le respect de l'environnement se rencontrent, il est primordial de faire valoir toute technologie \u00e9nerg\u00e9tique sur des bases d'acceptabilit\u00e9 locale et scientifique convaincante.",
+        "age_group": "36-50",
+        "city": "Dijon",
+        "gender": "Male",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Scientific and Technical Evaluation: The need for thorough scientific and technical evaluations to assess the long-term health and environmental impacts of nuclear power plants, ensuring the safety and sustainability of nuclear energy."
+    },
+    {
+        "response_id": 16,
+        "response": "Je vois le nucl\u00e9aire comme un soutien \u00e0 la stabilit\u00e9 \u00e9nerg\u00e9tique. Ceci dit, chaque infrastructure doit \u00eatre d\u00e9velopp\u00e9e dans une d\u00e9marche responsable, en consid\u00e9rant les alternatives \u00e9cologiques. \u00c0 Reims, notre patrimoine et notre agriculture doivent imp\u00e9rativement \u00eatre pr\u00e9serv\u00e9s; toute avanc\u00e9e doit \u00eatre planifi\u00e9e en concertation avec les experts environnementaux.",
+        "age_group": "36-50",
+        "city": "Reims",
+        "gender": "Female",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Technological Advancement and Energy Stability: The role of nuclear power in providing energy stability and addressing climate change, including its potential to reduce the carbon footprint compared to coal power plants."
+    },
+    {
+        "response_id": 16,
+        "response": "Je vois le nucl\u00e9aire comme un soutien \u00e0 la stabilit\u00e9 \u00e9nerg\u00e9tique. Ceci dit, chaque infrastructure doit \u00eatre d\u00e9velopp\u00e9e dans une d\u00e9marche responsable, en consid\u00e9rant les alternatives \u00e9cologiques. \u00c0 Reims, notre patrimoine et notre agriculture doivent imp\u00e9rativement \u00eatre pr\u00e9serv\u00e9s; toute avanc\u00e9e doit \u00eatre planifi\u00e9e en concertation avec les experts environnementaux.",
+        "age_group": "36-50",
+        "city": "Reims",
+        "gender": "Female",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Local Values and Heritage: The alignment of energy solutions with local values and heritage, prioritizing ecological sustainability and the use of natural resources, and concerns about the impact of nuclear power on local culture and environment."
+    },
+    {
+        "response_id": 17,
+        "response": "\u00c9motionnellement, je suis attach\u00e9 \u00e0 nos terres agricoles. Tout projet nucl\u00e9aire doit inclure des strat\u00e9gies pour prot\u00e9ger la terre et compenser les agriculteurs. Le Havre, qui se situe \u00e0 la crois\u00e9e des chemins entre industrie et agriculture, ne peut sacrifier l'une pour l'autre. Un \u00e9quilibre viable doit \u00eatre \u00e9tabli.",
+        "age_group": "36-50",
+        "city": "Le Havre",
+        "gender": "Male",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Economic and Social Considerations: The economic implications and social impact of building a nuclear power plant, including potential diversion from more effective ecological solutions and harm to local economies dependent on agriculture and tourism."
+    },
+    {
+        "response_id": 17,
+        "response": "\u00c9motionnellement, je suis attach\u00e9 \u00e0 nos terres agricoles. Tout projet nucl\u00e9aire doit inclure des strat\u00e9gies pour prot\u00e9ger la terre et compenser les agriculteurs. Le Havre, qui se situe \u00e0 la crois\u00e9e des chemins entre industrie et agriculture, ne peut sacrifier l'une pour l'autre. Un \u00e9quilibre viable doit \u00eatre \u00e9tabli.",
+        "age_group": "36-50",
+        "city": "Le Havre",
+        "gender": "Male",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Local Values and Heritage: The alignment of energy solutions with local values and heritage, prioritizing ecological sustainability and the use of natural resources, and concerns about the impact of nuclear power on local culture and environment."
+    },
+    {
+        "response_id": 18,
+        "response": "La r\u00e9duction globale de notre consommation devrait \u00eatre la priorit\u00e9. Je crains que le nucl\u00e9aire d\u00e9tourne l'attention des solutions \u00e9cologiques v\u00e9ritables. \u00c0 Metz, nous aspirons \u00e0 un meilleur mod\u00e8le qui mettrait en avant l'efficacit\u00e9 \u00e9nerg\u00e9tique et la r\u00e9duction de notre empreinte carbone au travers d'alternatives autres que le nucl\u00e9aire.",
+        "age_group": "21-35",
+        "city": "Metz",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Preference for Renewable Energy: The advocacy for investment in renewable energy sources such as solar, wind, and hydroelectric power as safer and more sustainable options compared to nuclear energy."
+    },
+    {
+        "response_id": 18,
+        "response": "La r\u00e9duction globale de notre consommation devrait \u00eatre la priorit\u00e9. Je crains que le nucl\u00e9aire d\u00e9tourne l'attention des solutions \u00e9cologiques v\u00e9ritables. \u00c0 Metz, nous aspirons \u00e0 un meilleur mod\u00e8le qui mettrait en avant l'efficacit\u00e9 \u00e9nerg\u00e9tique et la r\u00e9duction de notre empreinte carbone au travers d'alternatives autres que le nucl\u00e9aire.",
+        "age_group": "21-35",
+        "city": "Metz",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "NEGATIVE",
+        "themes": "Economic and Social Considerations: The economic implications and social impact of building a nuclear power plant, including potential diversion from more effective ecological solutions and harm to local economies dependent on agriculture and tourism."
+    },
+    {
+        "response_id": 19,
+        "response": "Je reconnais l'argument \u00e9conomique, mais l'enjeu \u00e9cologique ne doit pas \u00eatre minimis\u00e9. Le dialogue avec les experts en environnement est plus important que jamais. \u00c0 Toulon, notre engagement envers l'environnement marin doit rester notre priorit\u00e9, ce qui n\u00e9cessite de solides garanties \u00e9cologiques pour chaque projet propos\u00e9.",
+        "age_group": "51-65",
+        "city": "Toulon",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Economic Sustainability and Benefits: The balance between renewable energy and nuclear power for economic sustainability, including potential benefits such as job creation and local economic revitalization from building a nuclear power plant."
+    },
+    {
+        "response_id": 19,
+        "response": "Je reconnais l'argument \u00e9conomique, mais l'enjeu \u00e9cologique ne doit pas \u00eatre minimis\u00e9. Le dialogue avec les experts en environnement est plus important que jamais. \u00c0 Toulon, notre engagement envers l'environnement marin doit rester notre priorit\u00e9, ce qui n\u00e9cessite de solides garanties \u00e9cologiques pour chaque projet propos\u00e9.",
+        "age_group": "51-65",
+        "city": "Toulon",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "NEGATIVE",
+        "themes": "Environmental Impact and Sustainability: The long-term environmental impact of nuclear power plants, including the management of radioactive waste and potential harm to local ecosystems, and the need for sustainable energy solutions."
+    },
+    {
+        "response_id": 20,
+        "response": "Pour avancer, engageons-nous vers une coop\u00e9ration scientifique et technique. Consultons les experts m\u00e9dicaux pour \u00e9valuer l'impact sur la sant\u00e9, avant de consid\u00e9rer ce saut \u00e9nerg\u00e9tique. \u00c0 Clermont-Ferrand, la science doit \u00eatre la boussole qui guide nos d\u00e9cisions. Nous avons besoin de mesures concr\u00e8tes sur les effets \u00e0 long terme et de strat\u00e9gies de communication efficaces pour apaiser les craintes du public.",
+        "age_group": "36-50",
+        "city": "Clermont-Ferrand",
+        "gender": "Female",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Scientific and Technical Evaluation: The need for thorough scientific and technical evaluations to assess the long-term health and environmental impacts of nuclear power plants, ensuring the safety and sustainability of nuclear energy."
+    },
+    {
+        "response_id": 20,
+        "response": "Pour avancer, engageons-nous vers une coop\u00e9ration scientifique et technique. Consultons les experts m\u00e9dicaux pour \u00e9valuer l'impact sur la sant\u00e9, avant de consid\u00e9rer ce saut \u00e9nerg\u00e9tique. \u00c0 Clermont-Ferrand, la science doit \u00eatre la boussole qui guide nos d\u00e9cisions. Nous avons besoin de mesures concr\u00e8tes sur les effets \u00e0 long terme et de strat\u00e9gies de communication efficaces pour apaiser les craintes du public.",
+        "age_group": "36-50",
+        "city": "Clermont-Ferrand",
+        "gender": "Female",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Need for Public Consultation and Involvement: The importance of involving the public and conducting thorough impact studies before making decisions about nuclear power projects, emphasizing transparency and community involvement in the decision-making process."
+    },
+    {
+        "response_id": 21,
+        "response": "Peut-\u00eatre le nucl\u00e9aire a-t-il un r\u00f4le \u00e0 jouer en tant que source d'\u00e9nergie stable, mais qu'en est-il de la recherche et d\u00e9veloppement sur les \u00e9nergies renouvelables ? Les citoyens de Lille sont particuli\u00e8rement conscients des solutions \u00e9cologiques, et je pense que notre avenir pourrait r\u00e9sider davantage dans des technologies telles que l'\u00e9olien et le solaire.",
+        "age_group": "51-65",
+        "city": "Lille",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Technological Advancement and Energy Stability: The role of nuclear power in providing energy stability and addressing climate change, including its potential to reduce the carbon footprint compared to coal power plants."
+    },
+    {
+        "response_id": 21,
+        "response": "Peut-\u00eatre le nucl\u00e9aire a-t-il un r\u00f4le \u00e0 jouer en tant que source d'\u00e9nergie stable, mais qu'en est-il de la recherche et d\u00e9veloppement sur les \u00e9nergies renouvelables ? Les citoyens de Lille sont particuli\u00e8rement conscients des solutions \u00e9cologiques, et je pense que notre avenir pourrait r\u00e9sider davantage dans des technologies telles que l'\u00e9olien et le solaire.",
+        "age_group": "51-65",
+        "city": "Lille",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Preference for Renewable Energy: The advocacy for investment in renewable energy sources such as solar, wind, and hydroelectric power as safer and more sustainable options compared to nuclear energy."
+    },
+    {
+        "response_id": 22,
+        "response": "En tant que m\u00e8re de famille vivant \u00e0 Marseille, mes pr\u00e9occupations principales sont la s\u00e9curit\u00e9 et l'impact environnemental. Le souvenir de Tchernobyl me hante et, en vivant si proche de la mer, je crains les cons\u00e9quences d\u00e9sastreuses d'un \u00e9ventuel accident sur notre pr\u00e9cieuse biodiversit\u00e9 marine.",
+        "age_group": "36-50",
+        "city": "Marseille",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "NEGATIVE",
+        "themes": "Nuclear Safety Concerns: The safety risks associated with nuclear power, including past disasters like Fukushima and Chernobyl, and concerns about potential accidents and long-term management of nuclear waste."
+    },
+    {
+        "response_id": 22,
+        "response": "En tant que m\u00e8re de famille vivant \u00e0 Marseille, mes pr\u00e9occupations principales sont la s\u00e9curit\u00e9 et l'impact environnemental. Le souvenir de Tchernobyl me hante et, en vivant si proche de la mer, je crains les cons\u00e9quences d\u00e9sastreuses d'un \u00e9ventuel accident sur notre pr\u00e9cieuse biodiversit\u00e9 marine.",
+        "age_group": "36-50",
+        "city": "Marseille",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "NEGATIVE",
+        "themes": "Environmental Impact and Sustainability: The long-term environmental impact of nuclear power plants, including the management of radioactive waste and potential harm to local ecosystems, and the need for sustainable energy solutions."
+    },
+    {
+        "response_id": 23,
+        "response": "\u00c0 Nantes, nous sommes fiers de notre progression vers les \u00e9nergies renouvelables. L'id\u00e9e d'une centrale nucl\u00e9aire me semble \u00e0 contre-courant de nos efforts. Toute d\u00e9cision de ce genre devrait \u00eatre pr\u00e9c\u00e9d\u00e9e par un d\u00e9bat d\u00e9mocratique impliquant toutes les parties prenantes, notamment les habitants directement concern\u00e9s.",
+        "age_group": "36-50",
+        "city": "Nantes",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "NEGATIVE",
+        "themes": "Preference for Renewable Energy: The advocacy for investment in renewable energy sources such as solar, wind, and hydroelectric power as safer and more sustainable options compared to nuclear energy."
+    },
+    {
+        "response_id": 23,
+        "response": "\u00c0 Nantes, nous sommes fiers de notre progression vers les \u00e9nergies renouvelables. L'id\u00e9e d'une centrale nucl\u00e9aire me semble \u00e0 contre-courant de nos efforts. Toute d\u00e9cision de ce genre devrait \u00eatre pr\u00e9c\u00e9d\u00e9e par un d\u00e9bat d\u00e9mocratique impliquant toutes les parties prenantes, notamment les habitants directement concern\u00e9s.",
+        "age_group": "36-50",
+        "city": "Nantes",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Need for Public Consultation and Involvement: The importance of involving the public and conducting thorough impact studies before making decisions about nuclear power projects, emphasizing transparency and community involvement in the decision-making process."
+    },
+    {
+        "response_id": 24,
+        "response": "Je soutiens les avanc\u00e9es technologiques, mais l'implantation de nouvelles centrales nucl\u00e9aires doit se faire avec prudence. \u00c0 Paris, le poids \u00e9conomique est ind\u00e9niable, mais il ne doit jamais occulter une responsabilit\u00e9 accrue envers la s\u00e9curit\u00e9 publique. La gestion des d\u00e9chets reste une inqui\u00e9tude majeure sans solution claire \u00e0 long terme.",
+        "age_group": "51-65",
+        "city": "Paris",
+        "gender": "Female",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Safety and Transparency: The importance of robust safety measures, risk management, and transparent decision-making processes in the implementation of nuclear power plants to ensure public trust and safety."
+    },
+    {
+        "response_id": 24,
+        "response": "Je soutiens les avanc\u00e9es technologiques, mais l'implantation de nouvelles centrales nucl\u00e9aires doit se faire avec prudence. \u00c0 Paris, le poids \u00e9conomique est ind\u00e9niable, mais il ne doit jamais occulter une responsabilit\u00e9 accrue envers la s\u00e9curit\u00e9 publique. La gestion des d\u00e9chets reste une inqui\u00e9tude majeure sans solution claire \u00e0 long terme.",
+        "age_group": "51-65",
+        "city": "Paris",
+        "gender": "Female",
+        "position": "unclear",
+        "stances": "NEGATIVE",
+        "themes": "Nuclear Safety Concerns: The safety risks associated with nuclear power, including past disasters like Fukushima and Chernobyl, and concerns about potential accidents and long-term management of nuclear waste."
+    },
+    {
+        "response_id": 25,
+        "response": "En habitant \u00e0 Grenoble, je suis particuli\u00e8rement sensible \u00e0 notre environnement fragile. Le nucl\u00e9aire pourrait \u00eatre une r\u00e9ponse \u00e0 nos besoins \u00e9nerg\u00e9tiques, mais je pr\u00e9f\u00e8re que nous nous tournions vers un mod\u00e8le \u00e9nerg\u00e9tique bas\u00e9 sur l'eau et le vent, en accord avec notre patrimoine et nos valeurs.",
+        "age_group": "21-35",
+        "city": "Grenoble",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Technological Advancement and Energy Stability: The role of nuclear power in providing energy stability and addressing climate change, including its potential to reduce the carbon footprint compared to coal power plants."
+    },
+    {
+        "response_id": 25,
+        "response": "En habitant \u00e0 Grenoble, je suis particuli\u00e8rement sensible \u00e0 notre environnement fragile. Le nucl\u00e9aire pourrait \u00eatre une r\u00e9ponse \u00e0 nos besoins \u00e9nerg\u00e9tiques, mais je pr\u00e9f\u00e8re que nous nous tournions vers un mod\u00e8le \u00e9nerg\u00e9tique bas\u00e9 sur l'eau et le vent, en accord avec notre patrimoine et nos valeurs.",
+        "age_group": "21-35",
+        "city": "Grenoble",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Local Values and Heritage: The alignment of energy solutions with local values and heritage, prioritizing ecological sustainability and the use of natural resources, and concerns about the impact of nuclear power on local culture and environment."
+    },
+    {
+        "response_id": 26,
+        "response": "Je suis conscient de nos besoins \u00e9nerg\u00e9tiques croissants, mais je suis \u00e9galement tr\u00e8s pr\u00e9occup\u00e9 par l'h\u00e9ritage que nous allons laisser aux g\u00e9n\u00e9rations futures. \u00c0 Lyon, nous avons l'opportunit\u00e9 de montrer l'exemple en adoptant des solutions \u00e9nerg\u00e9tiques innovantes et durables.",
+        "age_group": "36-50",
+        "city": "Lyon",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "NEGATIVE",
+        "themes": "Environmental Impact and Sustainability: The long-term environmental impact of nuclear power plants, including the management of radioactive waste and potential harm to local ecosystems, and the need for sustainable energy solutions."
+    },
+    {
+        "response_id": 26,
+        "response": "Je suis conscient de nos besoins \u00e9nerg\u00e9tiques croissants, mais je suis \u00e9galement tr\u00e8s pr\u00e9occup\u00e9 par l'h\u00e9ritage que nous allons laisser aux g\u00e9n\u00e9rations futures. \u00c0 Lyon, nous avons l'opportunit\u00e9 de montrer l'exemple en adoptant des solutions \u00e9nerg\u00e9tiques innovantes et durables.",
+        "age_group": "36-50",
+        "city": "Lyon",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Preference for Renewable Energy: The advocacy for investment in renewable energy sources such as solar, wind, and hydroelectric power as safer and more sustainable options compared to nuclear energy."
+    },
+    {
+        "response_id": 27,
+        "response": "Les technologies de pointe sont essentielles pour notre futur, mais pourquoi ne pas explorer celles moins risqu\u00e9es en premier ? En tant qu'habitante de Bordeaux, je suis pour la recherche dans le domaine des \u00e9nergies renouvelables. Notre qualit\u00e9 de vie et notre sant\u00e9 publique m\u00e9ritent la plus haute protection.",
+        "age_group": "36-50",
+        "city": "Bordeaux",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Technological Advancement and Energy Stability: The role of nuclear power in providing energy stability and addressing climate change, including its potential to reduce the carbon footprint compared to coal power plants."
+    },
+    {
+        "response_id": 27,
+        "response": "Les technologies de pointe sont essentielles pour notre futur, mais pourquoi ne pas explorer celles moins risqu\u00e9es en premier ? En tant qu'habitante de Bordeaux, je suis pour la recherche dans le domaine des \u00e9nergies renouvelables. Notre qualit\u00e9 de vie et notre sant\u00e9 publique m\u00e9ritent la plus haute protection.",
+        "age_group": "36-50",
+        "city": "Bordeaux",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Preference for Renewable Energy: The advocacy for investment in renewable energy sources such as solar, wind, and hydroelectric power as safer and more sustainable options compared to nuclear energy."
+    },
+    {
+        "response_id": 28,
+        "response": "Au Havre, nous avons un m\u00e9lange unique d'industrie et d'agriculture. Si le nucl\u00e9aire peut assurer notre avenir \u00e9nerg\u00e9tique, il ne doit pas compromettre nos paysages ruraux ni notre sant\u00e9. Les garanties de compensation et de r\u00e9habilitation doivent \u00eatre fermes et respect\u00e9es \u00e0 la lettre.",
+        "age_group": "36-50",
+        "city": "Le Havre",
+        "gender": "Male",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Technological Advancement and Energy Stability: The role of nuclear power in providing energy stability and addressing climate change, including its potential to reduce the carbon footprint compared to coal power plants."
+    },
+    {
+        "response_id": 28,
+        "response": "Au Havre, nous avons un m\u00e9lange unique d'industrie et d'agriculture. Si le nucl\u00e9aire peut assurer notre avenir \u00e9nerg\u00e9tique, il ne doit pas compromettre nos paysages ruraux ni notre sant\u00e9. Les garanties de compensation et de r\u00e9habilitation doivent \u00eatre fermes et respect\u00e9es \u00e0 la lettre.",
+        "age_group": "36-50",
+        "city": "Le Havre",
+        "gender": "Male",
+        "position": "unclear",
+        "stances": "NEGATIVE",
+        "themes": "Economic and Social Considerations: The economic implications and social impact of building a nuclear power plant, including potential diversion from more effective ecological solutions and harm to local economies dependent on agriculture and tourism."
+    },
+    {
+        "response_id": 29,
+        "response": "En tant que retrait\u00e9 vivant \u00e0 Nice, mes priorit\u00e9s sont la paix et la s\u00e9curit\u00e9 de ma famille. Avant d'autoriser de nouvelles infrastructures nucl\u00e9aires, j'aimerais voir des \u00e9tudes d'impact rigoureuses et un d\u00e9bat public qui prendrait en compte nos pr\u00e9occupations \u00e0 long terme.",
+        "age_group": "66+",
+        "city": "Nice",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Need for Public Consultation and Involvement: The importance of involving the public and conducting thorough impact studies before making decisions about nuclear power projects, emphasizing transparency and community involvement in the decision-making process."
+    },
+    {
+        "response_id": 29,
+        "response": "En tant que retrait\u00e9 vivant \u00e0 Nice, mes priorit\u00e9s sont la paix et la s\u00e9curit\u00e9 de ma famille. Avant d'autoriser de nouvelles infrastructures nucl\u00e9aires, j'aimerais voir des \u00e9tudes d'impact rigoureuses et un d\u00e9bat public qui prendrait en compte nos pr\u00e9occupations \u00e0 long terme.",
+        "age_group": "66+",
+        "city": "Nice",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Scientific and Technical Evaluation: The need for thorough scientific and technical evaluations to assess the long-term health and environmental impacts of nuclear power plants, ensuring the safety and sustainability of nuclear energy."
+    },
+    {
+        "response_id": 30,
+        "response": "Je suis jeune, mais je suis d\u00e9j\u00e0 conscient des probl\u00e8mes \u00e9nerg\u00e9tiques auxquels nous faisons face. Habitant \u00e0 Lille, je vois le potentiel d'une transition r\u00e9ussie vers des solutions plus durables comme l'\u00e9olien, qui pourraient nous lib\u00e9rer des inqui\u00e9tudes li\u00e9es au nucl\u00e9aire.",
+        "age_group": "21-35",
+        "city": "Lille",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Preference for Renewable Energy: The advocacy for investment in renewable energy sources such as solar, wind, and hydroelectric power as safer and more sustainable options compared to nuclear energy."
+    },
+    {
+        "response_id": 30,
+        "response": "Je suis jeune, mais je suis d\u00e9j\u00e0 conscient des probl\u00e8mes \u00e9nerg\u00e9tiques auxquels nous faisons face. Habitant \u00e0 Lille, je vois le potentiel d'une transition r\u00e9ussie vers des solutions plus durables comme l'\u00e9olien, qui pourraient nous lib\u00e9rer des inqui\u00e9tudes li\u00e9es au nucl\u00e9aire.",
+        "age_group": "21-35",
+        "city": "Lille",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "NEGATIVE",
+        "themes": "Nuclear Safety Concerns: The safety risks associated with nuclear power, including past disasters like Fukushima and Chernobyl, and concerns about potential accidents and long-term management of nuclear waste."
+    },
+    {
+        "response_id": 31,
+        "response": "Notre r\u00e9gion, Rennes, pourrait b\u00e9n\u00e9ficier \u00e9conomiquement d'un projet nucl\u00e9aire, mais ce ne sera pas au d\u00e9triment de notre environnement naturel. Les accords doivent inclure des clauses solides de protection environnementale et des engagements clairs sur une croissance verte parall\u00e8le.",
+        "age_group": "36-50",
+        "city": "Rennes",
+        "gender": "Male",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Economic Sustainability and Benefits: The balance between renewable energy and nuclear power for economic sustainability, including potential benefits such as job creation and local economic revitalization from building a nuclear power plant."
+    },
+    {
+        "response_id": 31,
+        "response": "Notre r\u00e9gion, Rennes, pourrait b\u00e9n\u00e9ficier \u00e9conomiquement d'un projet nucl\u00e9aire, mais ce ne sera pas au d\u00e9triment de notre environnement naturel. Les accords doivent inclure des clauses solides de protection environnementale et des engagements clairs sur une croissance verte parall\u00e8le.",
+        "age_group": "36-50",
+        "city": "Rennes",
+        "gender": "Male",
+        "position": "unclear",
+        "stances": "POSITIVE",
+        "themes": "Environmental Impact and Sustainability: The long-term environmental impact of nuclear power plants, including the management of radioactive waste and potential harm to local ecosystems, and the need for sustainable energy solutions."
+    },
+    {
+        "response_id": 32,
+        "response": "Je suis sceptique face aux promesses de l'industrie nucl\u00e9aire. \u00c0 Strasbourg, nos liens culturels et environnementaux avec notre voisin allemand nous incitent \u00e0 promouvoir des alternatives comme le solaire, qui respectent notre histoire et notre avenir.",
+        "age_group": "51-65",
+        "city": "Strasbourg",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Preference for Renewable Energy: The advocacy for investment in renewable energy sources such as solar, wind, and hydroelectric power as safer and more sustainable options compared to nuclear energy."
+    },
+    {
+        "response_id": 32,
+        "response": "Je suis sceptique face aux promesses de l'industrie nucl\u00e9aire. \u00c0 Strasbourg, nos liens culturels et environnementaux avec notre voisin allemand nous incitent \u00e0 promouvoir des alternatives comme le solaire, qui respectent notre histoire et notre avenir.",
+        "age_group": "51-65",
+        "city": "Strasbourg",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Local Values and Heritage: The alignment of energy solutions with local values and heritage, prioritizing ecological sustainability and the use of natural resources, and concerns about the impact of nuclear power on local culture and environment."
+    },
+    {
+        "response_id": 33,
+        "response": "\u00c0 Montpellier, je suis t\u00e9moin de nos efforts pour capter l'\u00e9nergie imm\u00e9diatement disponible du soleil. D\u00e9velopper une centrale nucl\u00e9aire ici augmenterait les risques et nous \u00e9loignerait des solutions propres qui peuvent vraiment faire la diff\u00e9rence sans compromettre notre s\u00e9curit\u00e9.",
+        "age_group": "36-50",
+        "city": "Montpellier",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Preference for Renewable Energy: The advocacy for investment in renewable energy sources such as solar, wind, and hydroelectric power as safer and more sustainable options compared to nuclear energy."
+    },
+    {
+        "response_id": 33,
+        "response": "\u00c0 Montpellier, je suis t\u00e9moin de nos efforts pour capter l'\u00e9nergie imm\u00e9diatement disponible du soleil. D\u00e9velopper une centrale nucl\u00e9aire ici augmenterait les risques et nous \u00e9loignerait des solutions propres qui peuvent vraiment faire la diff\u00e9rence sans compromettre notre s\u00e9curit\u00e9.",
+        "age_group": "36-50",
+        "city": "Montpellier",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "NEGATIVE",
+        "themes": "Nuclear Safety Concerns: The safety risks associated with nuclear power, including past disasters like Fukushima and Chernobyl, and concerns about potential accidents and long-term management of nuclear waste."
+    },
+    {
+        "response_id": 34,
+        "response": "En tant qu'agent \u00e9conomique, je suis conscient des imp\u00e9ratifs de notre croissance, mais \u00e0 Brest, nous avons la conviction que des solutions durables existent qui ne demandent pas de sacrifices \u00e0 court terme de nos ressources naturelles ni de notre sant\u00e9.",
+        "age_group": "51-65",
+        "city": "Brest",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Economic Sustainability and Benefits: The balance between renewable energy and nuclear power for economic sustainability, including potential benefits such as job creation and local economic revitalization from building a nuclear power plant."
+    },
+    {
+        "response_id": 34,
+        "response": "En tant qu'agent \u00e9conomique, je suis conscient des imp\u00e9ratifs de notre croissance, mais \u00e0 Brest, nous avons la conviction que des solutions durables existent qui ne demandent pas de sacrifices \u00e0 court terme de nos ressources naturelles ni de notre sant\u00e9.",
+        "age_group": "51-65",
+        "city": "Brest",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Environmental Impact and Sustainability: The long-term environmental impact of nuclear power plants, including the management of radioactive waste and potential harm to local ecosystems, and the need for sustainable energy solutions."
+    },
+    {
+        "response_id": 35,
+        "response": "La ville de Marseille peut-elle vraiment se permettre un tel pari \u00e9nerg\u00e9tique alors que nous avons d'ores et d\u00e9j\u00e0 des pistes avec l'\u00e9nergie marine ? En tant que d\u00e9fenseur de l'environnement, je souhaite voir davantage d'investissements dans des technologies sans danger.",
+        "age_group": "36-50",
+        "city": "Marseille",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Preference for Renewable Energy: The advocacy for investment in renewable energy sources such as solar, wind, and hydroelectric power as safer and more sustainable options compared to nuclear energy."
+    },
+    {
+        "response_id": 35,
+        "response": "La ville de Marseille peut-elle vraiment se permettre un tel pari \u00e9nerg\u00e9tique alors que nous avons d'ores et d\u00e9j\u00e0 des pistes avec l'\u00e9nergie marine ? En tant que d\u00e9fenseur de l'environnement, je souhaite voir davantage d'investissements dans des technologies sans danger.",
+        "age_group": "36-50",
+        "city": "Marseille",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "NEGATIVE",
+        "themes": "Nuclear Safety Concerns: The safety risks associated with nuclear power, including past disasters like Fukushima and Chernobyl, and concerns about potential accidents and long-term management of nuclear waste."
+    },
+    {
+        "response_id": 36,
+        "response": "En Alsace, dans la belle ville de Strasbourg, nous avons besoin de solutions \u00e9nerg\u00e9tiques fiables, mais la mise en place du nucl\u00e9aire doit \u00eatre soigneusement planifi\u00e9e pour \u00e9viter d'affecter notre \u00e9cosyst\u00e8me unique. Nous devons privil\u00e9gier des solutions de stockage d'\u00e9nergie renouvelable.",
+        "age_group": "36-50",
+        "city": "Strasbourg",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "NEGATIVE",
+        "themes": "Environmental Impact and Sustainability: The long-term environmental impact of nuclear power plants, including the management of radioactive waste and potential harm to local ecosystems, and the need for sustainable energy solutions."
+    },
+    {
+        "response_id": 36,
+        "response": "En Alsace, dans la belle ville de Strasbourg, nous avons besoin de solutions \u00e9nerg\u00e9tiques fiables, mais la mise en place du nucl\u00e9aire doit \u00eatre soigneusement planifi\u00e9e pour \u00e9viter d'affecter notre \u00e9cosyst\u00e8me unique. Nous devons privil\u00e9gier des solutions de stockage d'\u00e9nergie renouvelable.",
+        "age_group": "36-50",
+        "city": "Strasbourg",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Preference for Renewable Energy: The advocacy for investment in renewable energy sources such as solar, wind, and hydroelectric power as safer and more sustainable options compared to nuclear energy."
+    },
+    {
+        "response_id": 37,
+        "response": "Je fais partie des entrepreneurs \u00e0 Nantes, et je pense que la p\u00e9rennit\u00e9 \u00e9conomique d\u00e9pend d'un \u00e9quilibre entre les \u00e9nergies renouvelables et le nucl\u00e9aire, chacun ayant un r\u00f4le s\u00e9curisant et responsable \u00e0 jouer, tant qu'il est soumis \u00e0 des contr\u00f4les stricts.",
+        "age_group": "36-50",
+        "city": "Nantes",
+        "gender": "Female",
+        "position": "agreement",
+        "stances": "POSITIVE",
+        "themes": "Economic Sustainability and Benefits: The balance between renewable energy and nuclear power for economic sustainability, including potential benefits such as job creation and local economic revitalization from building a nuclear power plant."
+    },
+    {
+        "response_id": 37,
+        "response": "Je fais partie des entrepreneurs \u00e0 Nantes, et je pense que la p\u00e9rennit\u00e9 \u00e9conomique d\u00e9pend d'un \u00e9quilibre entre les \u00e9nergies renouvelables et le nucl\u00e9aire, chacun ayant un r\u00f4le s\u00e9curisant et responsable \u00e0 jouer, tant qu'il est soumis \u00e0 des contr\u00f4les stricts.",
+        "age_group": "36-50",
+        "city": "Nantes",
+        "gender": "Female",
+        "position": "agreement",
+        "stances": "POSITIVE",
+        "themes": "Safety and Transparency: The importance of robust safety measures, risk management, and transparent decision-making processes in the implementation of nuclear power plants to ensure public trust and safety."
+    },
+    {
+        "response_id": 38,
+        "response": "Les enjeux sociaux de la r\u00e9gion de Toulouse ne peuvent \u00eatre ignor\u00e9s. Avant de tourner vers le nucl\u00e9aire, explorons chaque alternative durable qui ne manquera pas d'encourager nos liens communautaires plut\u00f4t qu'une d\u00e9pendance sur un secteur unique.",
+        "age_group": "36-50",
+        "city": "Toulouse",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Preference for Renewable Energy: The advocacy for investment in renewable energy sources such as solar, wind, and hydroelectric power as safer and more sustainable options compared to nuclear energy."
+    },
+    {
+        "response_id": 38,
+        "response": "Les enjeux sociaux de la r\u00e9gion de Toulouse ne peuvent \u00eatre ignor\u00e9s. Avant de tourner vers le nucl\u00e9aire, explorons chaque alternative durable qui ne manquera pas d'encourager nos liens communautaires plut\u00f4t qu'une d\u00e9pendance sur un secteur unique.",
+        "age_group": "36-50",
+        "city": "Toulouse",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "NEGATIVE",
+        "themes": "Economic and Social Considerations: The economic implications and social impact of building a nuclear power plant, including potential diversion from more effective ecological solutions and harm to local economies dependent on agriculture and tourism."
+    },
+    {
+        "response_id": 39,
+        "response": "\u00c9tant donn\u00e9 l'importance historique de Reims, il est vital que toute d\u00e9cision sur une centrale nucl\u00e9aire soit prise avec soin. Nous devons prioriser la consultation avec les experts pour \u00e9viter d'alt\u00e9rer notre cadre patrimonial et \u00e9cologique.",
+        "age_group": "51-65",
+        "city": "Reims",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Need for Public Consultation and Involvement: The importance of involving the public and conducting thorough impact studies before making decisions about nuclear power projects, emphasizing transparency and community involvement in the decision-making process."
+    },
+    {
+        "response_id": 39,
+        "response": "\u00c9tant donn\u00e9 l'importance historique de Reims, il est vital que toute d\u00e9cision sur une centrale nucl\u00e9aire soit prise avec soin. Nous devons prioriser la consultation avec les experts pour \u00e9viter d'alt\u00e9rer notre cadre patrimonial et \u00e9cologique.",
+        "age_group": "51-65",
+        "city": "Reims",
+        "gender": "Female",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Local Values and Heritage: The alignment of energy solutions with local values and heritage, prioritizing ecological sustainability and the use of natural resources, and concerns about the impact of nuclear power on local culture and environment."
+    },
+    {
+        "response_id": 40,
+        "response": "En tant que m\u00e9decin \u00e0 Dijon, je suis pr\u00e9occup\u00e9 par l'impact potentiel des installations nucl\u00e9aires sur la sant\u00e9 publique. Nous avons besoin d'\u00e9tudes ind\u00e9pendantes pour \u00e9valuer les risques ainsi que d'initiatives \u00e9ducatives pour pr\u00e9parer la population.",
+        "age_group": "51-65",
+        "city": "Dijon",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "NEGATIVE",
+        "themes": "Nuclear Safety Concerns: The safety risks associated with nuclear power, including past disasters like Fukushima and Chernobyl, and concerns about potential accidents and long-term management of nuclear waste."
+    },
+    {
+        "response_id": 40,
+        "response": "En tant que m\u00e9decin \u00e0 Dijon, je suis pr\u00e9occup\u00e9 par l'impact potentiel des installations nucl\u00e9aires sur la sant\u00e9 publique. Nous avons besoin d'\u00e9tudes ind\u00e9pendantes pour \u00e9valuer les risques ainsi que d'initiatives \u00e9ducatives pour pr\u00e9parer la population.",
+        "age_group": "51-65",
+        "city": "Dijon",
+        "gender": "Male",
+        "position": "disagreement",
+        "stances": "POSITIVE",
+        "themes": "Scientific and Technical Evaluation: The need for thorough scientific and technical evaluations to assess the long-term health and environmental impacts of nuclear power plants, ensuring the safety and sustainability of nuclear energy."
+    }
+]

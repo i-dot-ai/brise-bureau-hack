@@ -1,0 +1,138 @@
+@font-face {
+    font-family: "Inter";
+    src: url("/static/fonts/Inter-Regular.ttf");
+}
+@font-face {
+    font-family: "Inter";
+    font-weight: 500;
+    src: url("/static/fonts/Inter-Medium.ttf");
+}
+@font-face {
+    font-family: "Inter-SemiBold";
+    font-weight: 700;
+    src: url("/static/fonts/Inter-Medium.ttf");
+}
+* {
+    font-family: "Inter", sans-serif !important;
+}
+
+:root {
+    --iai-pink: #C50878;
+    --iai-colour-text-primary: #1F2937;
+}
+
+body:not(.darkmode) .stApp {
+    background: linear-gradient(145deg, var(--iai-background-colour-1, #f6ebf1) 0%, var(--iai-background-colour-2, #e6ecf2 100%));
+    color: var(--iai-colour-text-primary);
+}
+
+.stAppHeader {
+    background-color: transparent;
+}
+
+/* Menu */
+#bui1 li {
+    background-color: white;
+}
+#bui1 li:hover {
+    background-color: rgb(240, 242, 246);
+}
+
+/* Sidebar */
+.stSidebar {
+    border-radius: 0.25rem;
+    margin: 1.5rem;
+}
+body:not(.darkmode) .stSidebar {
+    background-color: white;
+}
+.stVerticalBlock:has(.iai-logo), [data-testid="stSidebarContent"]:has(.iai-logo), .stElementContainer:has(.iai-logo) {
+    position: initial;
+}
+.iai-logo {
+    bottom: 1.5rem;
+    left: 1.5rem;
+    position: absolute;
+}
+.darkmode .iai-logo img {
+    filter: grayscale(1) invert(1);
+}
+    
+/* Allow heading links to be keyboard focusable */
+[level] a, h1 a {
+    visibility: visible !important;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    position: absolute;
+    width: 1px;
+}
+[level] a:focus-visible, h1 a:focus-visible,
+[level]:hover a, h1:hover a {
+    width: auto;
+    clip: auto;
+    clip-path: none;
+    position: relative;
+}
+
+/* Footer */
+footer {
+    align-items: center;
+    background-color: black;
+    bottom: 0;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 0.75rem;
+    gap: 1.5rem;
+    justify-content: space-between;
+    left: 0;
+    padding: 1rem 2rem;
+    position: fixed;
+    width: 100%;
+    z-index: 999992;
+}
+.iai-footer__licence {
+    display: flex;
+    gap: 0.75rem;
+}
+.iai-footer__licence svg {
+    flex-shrink: 0;
+}
+footer a {
+    color: white !important;
+}
+
+/* Hide expand-sidebar button when not required */
+.stAppViewContainer:has(#stSidebar[data-expanded="true"]) [data-testid="stSidebarCollapsedControl"] button {
+    display: none;
+}
+/* Accessibly hide siderbar when collapsed */
+#stSidebar[data-expanded="false"] {
+    visibility: hidden;
+}
+/* Show collapse-sidebar button on focus */
+[data-testid="stSidebarCollapseButton"] {
+    display: inline;
+}
+[data-testid="stSidebarCollapseButton"] button {
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    position: absolute;
+    width: 1px;
+}
+[data-testid="stSidebarCollapseButton"] button:focus-visible, .stSidebar:hover [data-testid="stSidebarCollapseButton"] button {
+    width: auto;
+    clip: auto;
+    clip-path: none;
+    position: relative;
+}
+
+
+/* Form controls */
+[data-baseweb="select"] > div, [data-baseweb="base-input"] input, textarea {
+    border: 1px solid var(--iai-colour-text-primary) !important;
+    border-radius: 6px;
+}
+[data-baseweb="select"]:has(input:focus) > div, [data-baseweb="base-input"] input:focus, textarea:focus {
+    border: 1px solid var(--iai-pink) !important;
+}

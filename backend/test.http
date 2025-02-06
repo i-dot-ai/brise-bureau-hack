@@ -1,0 +1,8 @@
+POST http://localhost:8080/parlex/topic-search
+Content-Type: application/json
+
+{
+    "user_query": "Building nuclear power stations",
+    "month_range": ["2020-01-01", "2020-12-31"],
+    "num_contributions": 10
+}

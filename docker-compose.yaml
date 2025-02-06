@@ -1,0 +1,38 @@
+services:
+
+  backend:
+    build:
+      context: .
+      dockerfile: ./backend/Dockerfile
+    container_name: fastapi
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    networks:
+      - paris-hack-network
+    
+
+
+  frontend:
+    build:
+      context: .
+      dockerfile: ./frontend/Dockerfile
+    container_name: streamlit
+    ports:
+      - "8081:8081"
+    env_file:
+      - .env
+    networks:
+      - paris-hack-network
+    
+    depends_on:
+      backend:
+        condition: service_healthy
+    environment:
+     - BACKEND_HOST=http://backend:8080
+    
+
+networks:
+  paris-hack-network:
+    driver: bridge
